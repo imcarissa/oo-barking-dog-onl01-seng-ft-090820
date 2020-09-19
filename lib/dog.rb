@@ -13,3 +13,7 @@ falkor.name = "Falkor"
 
 puts falkor.name
 
+def bark
+    puts "Woof!"
+  end
+end
