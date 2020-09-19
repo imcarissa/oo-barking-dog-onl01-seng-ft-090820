@@ -8,5 +8,5 @@ class Dog
   end
 end
 
-Falkor = Dog.new
-Falkor.name
+falkor = Dog.new
+falkor.name = Falkor
