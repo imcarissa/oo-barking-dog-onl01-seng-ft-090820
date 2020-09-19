@@ -11,4 +11,4 @@ end
 falkor = Dog.new
 falkor.name = "Falkor"
 
-falkor.name
+puts falkor.name
