@@ -9,4 +9,6 @@ class Dog
 end
 
 falkor = Dog.new
-falkor.name = "Falkor"
+
+
+puts Falkor.name
